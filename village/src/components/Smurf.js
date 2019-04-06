@@ -4,8 +4,12 @@ const Smurf = props => {
   return (
     <div className="Smurf">
       <h3>{props.name}</h3>
-      <strong>{props.height} tall</strong>
-      <p>{props.age} smurf years old</p>
+      <p>
+      <strong>Height:</strong> {props.height} tall
+      </p>
+      <p>
+        <strong>Age:</strong> {props.age} smurf years old
+        </p>
     </div>
   );
 };
