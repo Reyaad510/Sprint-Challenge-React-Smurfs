@@ -14,11 +14,21 @@ Client-side routing works like this. Javascrip within a client app nmanages the 
 HTTP methods provide a common language that the client can use to let the server know what operation it wants to perform. CRUD stands for Create, Read, Update, and Delete. Create is used with the POST method, Read with GET method, Update with PUT method, and Delete with Delete method. 
 
 
+3. What does HTTP stand for?
+ 
+ HTTP is the network protocol(set of rules) used by web applications. It means Hypertext Transfer Protocol.
 
 
 
 
-3.  Mention three tools we can use to make AJAX requests.
+4. What does CRUD stand for?
+
+CRUD stands for Create, Read, Update, and Delete.
+
+
+
+
+5.  Mention three tools we can use to make AJAX requests.
 
 Three tools we can use to make AJAX requests are the HTTP methods. So three tools would be GET, POST, and PUT.
 

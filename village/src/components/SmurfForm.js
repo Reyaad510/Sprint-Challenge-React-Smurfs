@@ -11,6 +11,10 @@ class SmurfForm extends Component {
     };
   }
 
+  // post request tells server you want to create or add new data
+  // pass in url and data you want to post
+  // then() handles successful calls and catch to handle errors
+
   addSmurf = event => {
     event.preventDefault();
     axios.
